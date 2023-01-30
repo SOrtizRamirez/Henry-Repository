@@ -1,0 +1,5 @@
+Bueno, este es mi primer ejercicio en solitaria. En este utilicé el comando "cd" para entrar a la carpeta
+del prepcourse, después enlacé el repositorio a la nube utilizando el código que esta proporciona.
+Así mismo, creé una carpeta en "prepcourse sharon" llamada "CarpetaHenry" y entré a ella con "cd". Aún no
+sé cómo entrar a las carpetas por nombre sin tener que copiarlas. 
+Una vez entrada en la CarpetaHenry, creé este archivo con mkdir y entré aquí con code .
